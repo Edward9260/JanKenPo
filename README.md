@@ -1,1 +1,0 @@
-"# Jankenpo" 
